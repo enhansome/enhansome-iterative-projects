@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T20:32:25Z",
+            "last_commit": "2026-08-17T20:57:27Z",
             "owner": "zincware",
             "repo": "ZnTrack",
             "stars": 57
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:10:41.996Z",
+    "last_updated": "2026-08-18T06:58:11.501Z",
     "original_repository": "iterative/awesome-iterative-projects",
     "original_repository_sha": "e256a1c2f864ab4018d452e3df2714fba772aa7f",
     "enhanced_repository": "enhansome/enhansome-iterative-projects",
