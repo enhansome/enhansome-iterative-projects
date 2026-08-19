@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372782163,
             "language": "Python",
             "last_commit": "2026-08-17T20:57:27Z",
             "owner": "zincware",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 431553327,
             "language": "Lua",
             "last_commit": "2021-12-14T18:14:23Z",
             "owner": "gennaro-tedesco",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374909473,
             "language": "R",
             "last_commit": "2021-07-06T15:13:22Z",
             "owner": "jcpsantiago",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 521259992,
             "language": "Python",
             "last_commit": "2024-07-18T15:45:33Z",
             "owner": "zincware",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 518562328,
             "language": "Python",
             "last_commit": "2022-07-27T18:50:43Z",
             "owner": "deepflare",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518564730,
             "language": "Python",
             "last_commit": "2022-09-27T09:25:54Z",
             "owner": "deepflare",
@@ -91,7 +97,7 @@
       "title": "Tools & Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 363207228,
             "language": "HTML",
             "last_commit": "2023-10-27T08:13:24Z",
             "owner": "sicara",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201647203,
             "language": "Python",
             "last_commit": "2022-12-08T06:01:33Z",
             "owner": "sbalnojan",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277385962,
             "language": "Python",
             "last_commit": "2020-07-07T13:38:57Z",
             "owner": "dmesquita",
@@ -142,86 +151,86 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449784700,
             "language": "Jupyter Notebook",
             "last_commit": "2022-01-20T17:06:29Z",
             "owner": "tezansahu",
             "repo": "dvc-pycaret-fastapi-demo",
             "stars": 11
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Example-get-started",
+              "description": "Train a random forest classifier for StackOverflow question tagging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177689917,
+                "language": "Python",
+                "last_commit": "2024-05-27T17:18:14Z",
+                "owner": "treeverse",
+                "repo": "example-get-started",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Example-versioning",
+              "description": "Used in https://dvc.org/doc/use-cases/versioning-data-and-model-files/tutorial.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152330841,
+                "language": "Python",
+                "last_commit": "2024-06-04T16:55:49Z",
+                "owner": "treeverse",
+                "repo": "example-versioning",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DVC-Checkpoints-MNIST",
+              "description": "A showcase for different ways to use the checkpoints. Train a PyTorch classifier on a CSV MNIST dataset.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 342694112,
+                "language": "Python",
+                "last_commit": "2022-06-22T19:34:14Z",
+                "owner": "iterative",
+                "repo": "dvc-checkpoints-mnist",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scalable and Distributed ML Workflows with DVC + Ray on AWS",
+              "description": "This tutorial introduces you to integrating DVC with Ray, turning them into your go-to toolkit for creating automated, scalable, and distributed ML pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 769262336,
+                "language": "Python",
+                "last_commit": "2024-03-12T15:37:41Z",
+                "owner": "iterative",
+                "repo": "tutorial-mnist-dvc-ray",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Iterative"
         }
       ],
       "title": "Tutorials"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Example-get-started",
-          "description": "Train a random forest classifier for StackOverflow question tagging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-27T17:18:14Z",
-            "owner": "treeverse",
-            "repo": "example-get-started",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Example-versioning",
-          "description": "Used in https://dvc.org/doc/use-cases/versioning-data-and-model-files/tutorial.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-04T16:55:49Z",
-            "owner": "treeverse",
-            "repo": "example-versioning",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DVC-Checkpoints-MNIST",
-          "description": "A showcase for different ways to use the checkpoints. Train a PyTorch classifier on a CSV MNIST dataset.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-06-22T19:34:14Z",
-            "owner": "iterative",
-            "repo": "dvc-checkpoints-mnist",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scalable and Distributed ML Workflows with DVC + Ray on AWS",
-          "description": "This tutorial introduces you to integrating DVC with Ray, turning them into your go-to toolkit for creating automated, scalable, and distributed ML pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-12T15:37:41Z",
-            "owner": "iterative",
-            "repo": "tutorial-mnist-dvc-ray",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Example-DVC-experiments",
-          "description": "Train a Tensorflow CNN classifier for Fashion-MNIST data; used in https://dvc.org/doc/start/experiments.",
-          "children": []
-        }
-      ],
-      "title": "Iterative"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -230,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445607550,
             "language": "Jupyter Notebook",
             "last_commit": "2022-01-20T18:42:22Z",
             "owner": "tezansahu",
@@ -244,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292824847,
             "language": "HTML",
             "last_commit": "2021-05-30T09:16:20Z",
             "owner": "ModelOriented",
@@ -258,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185635781,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-12T14:41:33Z",
             "owner": "lenskit",
@@ -272,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1100609538,
             "language": "Python",
             "last_commit": "2025-11-20T14:17:08Z",
             "owner": "pinellolab",
@@ -284,8 +297,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:58:41.631Z",
+    "last_updated": "2026-08-19T12:33:57.477Z",
     "original_repository": "iterative/awesome-iterative-projects",
+    "original_repository_id": 212457372,
     "original_repository_sha": "e256a1c2f864ab4018d452e3df2714fba772aa7f",
     "enhanced_repository": "enhansome/enhansome-iterative-projects",
     "enhanced_repository_description": null,
