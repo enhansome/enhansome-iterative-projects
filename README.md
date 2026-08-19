@@ -13,7 +13,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [zincware/ZnTrack](https://github.com/zincware/ZnTrack) ⭐ 57 | 🐛 131 | 🌐 Python | 📅 2026-08-17: Create, visualize, run & benchmark DVC pipelines in Python & Jupyter notebooks.
 * [nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc) ⭐ 28 | 🐛 0 | 🌐 Lua | 📅 2021-12-14: Neovim plugin for DVC.
 * [`dvthis`](https://github.com/jcpsantiago/dvthis) ⭐ 24 | 🐛 0 | 🌐 R | 📅 2021-07-06: Utility functions and project templates for DVC pipelines using R.
-* [zincware/dask4dvc](https://github.com/zincware/dask4dvc) ⚠️ Archived: Provides a DVC-like CLI that combines DVC with [Dask Distributed](https://distributed.dask.org/) to make it easier to use with HPC managers like [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,260 | 🐛 13 | 🌐 C | 📅 2026-08-17
+* [zincware/dask4dvc](https://github.com/zincware/dask4dvc) ⚠️ Archived: Provides a DVC-like CLI that combines DVC with [Dask Distributed](https://distributed.dask.org/) to make it easier to use with HPC managers like [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,261 | 🐛 13 | 🌐 C | 📅 2026-08-18
 * [COVID Genomics/Airflow-DVC](https://github.com/covid-genomics/airflow-dvc) ⚠️ Archived: Airflow extension for DVC.
 * [COVID Genomics/dvc-fs](https://github.com/covid-genomics/dvc-fs) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-09-27: High-level abstraction for DVC file manipulation (listing & I/O) with basic support for [PyFilesystem2](https://github.com/PyFilesystem/pyfilesystem2) ⭐ 2,105 | 🐛 117 | 🌐 Python | 📅 2025-05-17.
 
@@ -26,7 +26,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 
 ### Iterative
 
-* [Example-get-started](https://github.com/iterative/example-get-started) ⭐ 201 | 🐛 2 | 🌐 Python | 📅 2024-05-27: Train a `sklearn` random forest classifier for StackOverflow question tagging.
+* [Example-get-started](https://github.com/iterative/example-get-started) ⭐ 202 | 🐛 2 | 🌐 Python | 📅 2024-05-27: Train a `sklearn` random forest classifier for StackOverflow question tagging.
 * [Example-versioning](https://github.com/iterative/example-versioning) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-06-04: Used in <https://dvc.org/doc/use-cases/versioning-data-and-model-files/tutorial>.
 * [DVC-Checkpoints-MNIST](https://github.com/iterative/dvc-checkpoints-mnist) ⚠️ Archived: A showcase for different ways to use the checkpoints. Train a PyTorch classifier on a CSV MNIST dataset.
 * [Scalable and Distributed ML Workflows with DVC + Ray on AWS](https://github.com/iterative/tutorial-mnist-dvc-ray) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2024-03-12: This tutorial introduces you to integrating DVC with Ray, turning them into your go-to toolkit for creating automated, scalable, and distributed ML pipelines.
@@ -48,4 +48,4 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

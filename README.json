@@ -166,7 +166,7 @@
             "last_commit": "2024-05-27T17:18:14Z",
             "owner": "treeverse",
             "repo": "example-get-started",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:58:11.501Z",
+    "last_updated": "2026-08-19T06:58:41.631Z",
     "original_repository": "iterative/awesome-iterative-projects",
     "original_repository_sha": "e256a1c2f864ab4018d452e3df2714fba772aa7f",
     "enhanced_repository": "enhansome/enhansome-iterative-projects",
