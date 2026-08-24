@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "dvthis",
           "description": "Utility functions and project templates for DVC pipelines using R.",
           "children": [],
           "repo_info": {
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:14:03.097Z",
+    "last_updated": "2026-08-24T14:44:33.940Z",
     "original_repository": "iterative/awesome-iterative-projects",
     "original_repository_id": 212457372,
     "original_repository_sha": "e256a1c2f864ab4018d452e3df2714fba772aa7f",
