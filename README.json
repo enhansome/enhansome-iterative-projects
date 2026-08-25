@@ -12,7 +12,7 @@
             "archived": false,
             "id": 372782163,
             "language": "Python",
-            "last_commit": "2026-08-17T20:57:27Z",
+            "last_commit": "2026-08-24T20:32:05Z",
             "owner": "zincware",
             "repo": "ZnTrack",
             "stars": 57
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:33.940Z",
+    "last_updated": "2026-08-25T06:37:50.045Z",
     "original_repository": "iterative/awesome-iterative-projects",
     "original_repository_id": 212457372,
     "original_repository_sha": "e256a1c2f864ab4018d452e3df2714fba772aa7f",
