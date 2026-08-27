@@ -297,9 +297,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:02:05.459Z",
-    "original_repository": "iterative/awesome-iterative-projects",
-    "original_repository_id": 212457372,
+    "last_updated": "2026-08-27T11:46:44.376Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 212457372,
+      "language": null,
+      "last_commit": "2024-07-11T11:34:41Z",
+      "owner": "iterative",
+      "repo": "awesome-iterative-projects",
+      "stars": 70
+    },
     "original_repository_sha": "e256a1c2f864ab4018d452e3df2714fba772aa7f",
     "enhanced_repository": "enhansome/enhansome-iterative-projects",
     "enhanced_repository_description": null,
