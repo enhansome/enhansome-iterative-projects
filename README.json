@@ -16,7 +16,8 @@
             "owner": "zincware",
             "repo": "ZnTrack",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "gennaro-tedesco",
             "repo": "nvim-dvc",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jcpsantiago",
             "repo": "dvthis",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "zincware",
             "repo": "dask4dvc",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "deepflare",
             "repo": "airflow-dvc",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "deepflare",
             "repo": "dvc-fs",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         }
       ],
       "title": "Tools & Libraries"
@@ -112,7 +118,8 @@
             "owner": "sicara",
             "repo": "dvc-streamlit-example",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "sbalnojan",
             "repo": "cd4ml-example",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "dmesquita",
             "repo": "dvc_pipelines_and_experiments_tutorial",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "tezansahu",
             "repo": "dvc-pycaret-fastapi-demo",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "children": [
@@ -174,7 +184,8 @@
                 "owner": "treeverse",
                 "repo": "example-get-started",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T18:33:12.241Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "treeverse",
                 "repo": "example-versioning",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T18:33:12.241Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "iterative",
                 "repo": "dvc-checkpoints-mnist",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:33:12.241Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "iterative",
                 "repo": "tutorial-mnist-dvc-ray",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:33:12.241Z"
             }
           ],
           "description": null,
@@ -245,7 +259,8 @@
             "owner": "tezansahu",
             "repo": "VQA-With-Multimodal-Transformers",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -260,7 +275,8 @@
             "owner": "ModelOriented",
             "repo": "MAIR",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -275,7 +291,8 @@
             "owner": "lenskit",
             "repo": "lk-demo-experiment",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         },
         {
           "node_type": "item",
@@ -290,14 +307,15 @@
             "owner": "pinellolab",
             "repo": "pyrovelocity",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T18:33:12.241Z"
         }
       ],
       "title": "Real-world Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:34:43.157Z",
+    "last_updated": "2026-08-28T18:33:12.241Z",
     "original_repository_info": {
       "archived": false,
       "id": 212457372,
