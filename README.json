@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create, visualize, run & benchmark DVC pipelines in Python & Jupyter notebooks.",
+            "homepage": "https://zntrack.readthedocs.io",
             "id": 372782163,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T20:32:05Z",
+            "open_issues": 131,
             "owner": "zincware",
             "repo": "ZnTrack",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "data-science",
+              "data-version-control",
+              "developer-tools",
+              "dvc",
+              "git",
+              "machine-learning",
+              "python",
+              "reproducibility"
+            ]
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -26,12 +40,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The long awaited dvc plugin for neovim",
+            "homepage": null,
             "id": 431553327,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-12-14T18:14:23Z",
+            "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "nvim-dvc",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "dvc",
+              "lua",
+              "neovim"
+            ]
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -42,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R utilities for DVC pipelines.",
+            "homepage": null,
             "id": 374909473,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-06T15:13:22Z",
+            "open_issues": 0,
             "owner": "jcpsantiago",
             "repo": "dvthis",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -58,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use dask to run the DVC Graph",
+            "homepage": null,
             "id": 521259992,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-18T15:45:33Z",
+            "open_issues": 19,
             "owner": "zincware",
             "repo": "dask4dvc",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -74,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DVC support for Airflow workflows",
+            "homepage": null,
             "id": 518562328,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-27T18:50:43Z",
+            "open_issues": 0,
             "owner": "deepflare",
             "repo": "airflow-dvc",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -90,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-level API work easy writing/reading/listing files inside the DVC",
+            "homepage": null,
             "id": 518564730,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-27T09:25:54Z",
+            "open_issues": 0,
             "owner": "deepflare",
             "repo": "dvc-fs",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         }
@@ -112,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dvc + Streamlit = ❤️",
+            "homepage": null,
             "id": 363207228,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-10-27T08:13:24Z",
+            "open_issues": 1,
             "owner": "sicara",
             "repo": "dvc-streamlit-example",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -128,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CD4ML Example Setup on AWS S3, GitLab with DVC",
+            "homepage": null,
             "id": 201647203,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-08T06:01:33Z",
+            "open_issues": 4,
             "owner": "sbalnojan",
             "repo": "cd4ml-example",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -144,12 +197,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building a maintainable Machine Learning pipeline using DVC",
+            "homepage": "https://towardsdatascience.com/the-ultimate-guide-to-building-maintainable-machine-learning-pipelines-using-dvc-a976907b2a1b",
             "id": 277385962,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-07T13:38:57Z",
+            "open_issues": 1,
             "owner": "dmesquita",
             "repo": "dvc_pipelines_and_experiments_tutorial",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "dvc",
+              "dvc-for-experiment-management",
+              "experiments",
+              "machine-learning",
+              "pipelines",
+              "project-management",
+              "reproducibility"
+            ]
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -160,12 +226,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the Demo of using DVC with PyCaret & MLOps (DVC Office Hours - 20th Jan, 2022)",
+            "homepage": null,
             "id": 449784700,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-01-20T17:06:29Z",
+            "open_issues": 0,
             "owner": "tezansahu",
             "repo": "dvc-pycaret-fastapi-demo",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "data-science",
+              "demo",
+              "deployment",
+              "dvc",
+              "fastapi",
+              "machine-learning",
+              "mlops-workflow",
+              "pycaret"
+            ]
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -178,12 +258,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get started DVC project (NLP, random forest)",
+                "homepage": "https://dvc.org/doc/start",
                 "id": 177689917,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-27T17:18:14Z",
+                "open_issues": 2,
                 "owner": "treeverse",
                 "repo": "example-get-started",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "dvc",
+                  "example",
+                  "machine-learning",
+                  "nlp",
+                  "python",
+                  "random-forest",
+                  "reproducibility",
+                  "reproducible",
+                  "reproducible-research"
+                ]
               },
               "first_seen": "2026-08-28T18:33:12.241Z"
             },
@@ -194,12 +289,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data sets and ML models versioning example from DVC get started",
+                "homepage": "https://dvc.org/doc/use-cases/versioning-data-and-models",
                 "id": 152330841,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-04T16:55:49Z",
+                "open_issues": 0,
                 "owner": "treeverse",
                 "repo": "example-versioning",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "data-management",
+                  "docs",
+                  "dvc",
+                  "example",
+                  "versioning"
+                ]
               },
               "first_seen": "2026-08-28T18:33:12.241Z"
             },
@@ -210,12 +316,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Example of checkpoints in a DVC project training a simple convolutional neural net to classify MNIST data",
+                "homepage": null,
                 "id": 342694112,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-22T19:34:14Z",
+                "open_issues": 3,
                 "owner": "iterative",
                 "repo": "dvc-checkpoints-mnist",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "example"
+                ]
               },
               "first_seen": "2026-08-28T18:33:12.241Z"
             },
@@ -226,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 769262336,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-12T15:37:41Z",
+                "open_issues": 1,
                 "owner": "iterative",
                 "repo": "tutorial-mnist-dvc-ray",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:33:12.241Z"
             }
@@ -253,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploring multimodal fusion-type transformer models for visual question answering (on DAQUAR dataset)",
+            "homepage": null,
             "id": 445607550,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-20T18:42:22Z",
+            "open_issues": 0,
             "owner": "tezansahu",
             "repo": "VQA-With-Multimodal-Transformers",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -269,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitoring of AI Regulations",
+            "homepage": null,
             "id": 292824847,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-05-30T09:16:20Z",
+            "open_issues": 5,
             "owner": "ModelOriented",
             "repo": "MAIR",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -285,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example project for running LensKit experiments",
+            "homepage": null,
             "id": 185635781,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-08-12T14:41:33Z",
+            "open_issues": 3,
             "owner": "lenskit",
             "repo": "lk-demo-experiment",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         },
@@ -301,12 +434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://pyrovelocity.readthedocs.io",
             "id": 1100609538,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-11-20T14:17:08Z",
+            "open_issues": 0,
             "owner": "pinellolab",
             "repo": "pyrovelocity",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
         }
@@ -315,15 +453,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:33:12.241Z",
+    "last_updated": "2026-08-29T05:05:07.401Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of projects relying on Iterative.AI tools to achieve awesomeness",
+      "homepage": "https://iterative.ai",
       "id": 212457372,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-07-11T11:34:41Z",
+      "open_issues": 2,
       "owner": "iterative",
       "repo": "awesome-iterative-projects",
-      "stars": 70
+      "stars": 70,
+      "topics": [
+        "awesome",
+        "awesome-dvc",
+        "awesome-list",
+        "awesome-lists",
+        "data-science",
+        "deep-learning",
+        "dvc",
+        "example",
+        "hacktoberfest",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "e256a1c2f864ab4018d452e3df2714fba772aa7f",
     "enhanced_repository": "enhansome/enhansome-iterative-projects",
