@@ -13,7 +13,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [zincware/ZnTrack](https://github.com/zincware/ZnTrack) ⭐ 57 | 🐛 131 | 🌐 Python | 📅 2026-08-31: Create, visualize, run & benchmark DVC pipelines in Python & Jupyter notebooks.
 * [nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc) ⭐ 28 | 🐛 0 | 🌐 Lua | 📅 2021-12-14: Neovim plugin for DVC.
 * [`dvthis`](https://github.com/jcpsantiago/dvthis) ⭐ 24 | 🐛 0 | 🌐 R | 📅 2021-07-06: Utility functions and project templates for DVC pipelines using R.
-* [zincware/dask4dvc](https://github.com/zincware/dask4dvc) ⚠️ Archived: Provides a DVC-like CLI that combines DVC with [Dask Distributed](https://distributed.dask.org/) to make it easier to use with HPC managers like [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,314 | 🐛 15 | 🌐 C | 📅 2026-09-04
+* [zincware/dask4dvc](https://github.com/zincware/dask4dvc) ⚠️ Archived: Provides a DVC-like CLI that combines DVC with [Dask Distributed](https://distributed.dask.org/) to make it easier to use with HPC managers like [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,321 | 🐛 16 | 🌐 C | 📅 2026-09-04
 * [COVID Genomics/Airflow-DVC](https://github.com/covid-genomics/airflow-dvc) ⚠️ Archived: Airflow extension for DVC.
 * [COVID Genomics/dvc-fs](https://github.com/covid-genomics/dvc-fs) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-09-27: High-level abstraction for DVC file manipulation (listing & I/O) with basic support for [PyFilesystem2](https://github.com/PyFilesystem/pyfilesystem2) ⭐ 2,105 | 🐛 117 | 🌐 Python | 📅 2025-05-17.
 
@@ -48,4 +48,4 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
