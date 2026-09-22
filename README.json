@@ -15,7 +15,7 @@
             "id": 372782163,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T20:38:45Z",
+            "last_commit": "2026-09-21T20:27:18Z",
             "open_issues": 131,
             "owner": "zincware",
             "repo": "ZnTrack",
@@ -443,7 +443,7 @@
             "open_issues": 0,
             "owner": "pinellolab",
             "repo": "pyrovelocity",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:12.241Z"
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T12:39:26.512Z",
+    "last_updated": "2026-09-22T11:25:46.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projects relying on Iterative.AI tools to achieve awesomeness",

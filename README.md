@@ -10,10 +10,10 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 
 ## Tools & Libraries
 
-* [zincware/ZnTrack](https://github.com/zincware/ZnTrack) ⭐ 57 | 🐛 131 | 🌐 Python | 📅 2026-09-14: Create, visualize, run & benchmark DVC pipelines in Python & Jupyter notebooks.
+* [zincware/ZnTrack](https://github.com/zincware/ZnTrack) ⭐ 57 | 🐛 131 | 🌐 Python | 📅 2026-09-21: Create, visualize, run & benchmark DVC pipelines in Python & Jupyter notebooks.
 * [nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc) ⭐ 28 | 🐛 0 | 🌐 Lua | 📅 2021-12-14: Neovim plugin for DVC.
 * [`dvthis`](https://github.com/jcpsantiago/dvthis) ⭐ 24 | 🐛 0 | 🌐 R | 📅 2021-07-06: Utility functions and project templates for DVC pipelines using R.
-* [zincware/dask4dvc](https://github.com/zincware/dask4dvc) ⚠️ Archived: Provides a DVC-like CLI that combines DVC with [Dask Distributed](https://distributed.dask.org/) to make it easier to use with HPC managers like [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,376 | 🐛 23 | 🌐 C | 📅 2026-09-18
+* [zincware/dask4dvc](https://github.com/zincware/dask4dvc) ⚠️ Archived: Provides a DVC-like CLI that combines DVC with [Dask Distributed](https://distributed.dask.org/) to make it easier to use with HPC managers like [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,379 | 🐛 23 | 🌐 C | 📅 2026-09-22
 * [COVID Genomics/Airflow-DVC](https://github.com/covid-genomics/airflow-dvc) ⚠️ Archived: Airflow extension for DVC.
 * [COVID Genomics/dvc-fs](https://github.com/covid-genomics/dvc-fs) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-09-27: High-level abstraction for DVC file manipulation (listing & I/O) with basic support for [PyFilesystem2](https://github.com/PyFilesystem/pyfilesystem2) ⭐ 2,105 | 🐛 117 | 🌐 Python | 📅 2025-05-17.
 
@@ -37,7 +37,7 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 * [VQA-With-Multimodal-Transformers](https://github.com/tezansahu/VQA-With-Multimodal-Transformers) ⭐ 37 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-01-20: Visual Question Answering task on the [DAQUAR Dataset](https://www.kaggle.com/tezansahu/processed-daquar-dataset) using multimodal [transformer models](https://huggingface.co/docs/transformers/index) with an experiment pipeline tracked in DVC Studio.
 * [ModelOriented/MAIR](https://github.com/ModelOriented/MAIR) ⭐ 19 | 🐛 5 | 🌐 HTML | 📅 2021-05-30: Monitoring impact of AI regulations with a DVC pipeline.
 * [LensKit/lk-demo-experiment](https://github.com/lenskit/lk-demo-experiment) ⭐ 13 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-12: Demo DVC experiment [pipeline (DAG)](https://dvc.org/doc/user-guide/glossary#pipeline-DAG) using multiple public datasets, preprocessing & training, and Jupyter notebooks.
-* [pinellolab/pyrovelocity](https://github.com/pinellolab/pyrovelocity) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-11-20: `Pyro-Velocity` is a Bayesian, generative, and multivariate RNA velocity model to estimate *uncertainty* in predictions of future cell states from minimal models approximating transcript splicing dynamics.
+* [pinellolab/pyrovelocity](https://github.com/pinellolab/pyrovelocity) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-11-20: `Pyro-Velocity` is a Bayesian, generative, and multivariate RNA velocity model to estimate *uncertainty* in predictions of future cell states from minimal models approximating transcript splicing dynamics.
 * [Kaggle-Titanic-DVC](https://dagshub.com/kingabzpro/kaggle-titanic-dvc): Survival analysis DVC experiment.
 
 ## Research Papers
@@ -48,4 +48,4 @@ Missing something awesome? Anyone is welcome to [submit projects to this list](h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
