@@ -267,7 +267,7 @@
                 "open_issues": 2,
                 "owner": "treeverse",
                 "repo": "example-get-started",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "dvc",
                   "example",
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T11:25:46.232Z",
+    "last_updated": "2026-09-23T11:23:20.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projects relying on Iterative.AI tools to achieve awesomeness",
