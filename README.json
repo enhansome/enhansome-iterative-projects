@@ -15,7 +15,7 @@
             "id": 372782163,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T22:19:28Z",
+            "last_commit": "2026-10-12T21:10:40Z",
             "open_issues": 131,
             "owner": "zincware",
             "repo": "ZnTrack",
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:11:19.202Z",
+    "last_updated": "2026-10-13T14:02:53.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projects relying on Iterative.AI tools to achieve awesomeness",
