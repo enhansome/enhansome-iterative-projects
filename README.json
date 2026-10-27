@@ -15,7 +15,7 @@
             "id": 372782163,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T21:14:00Z",
+            "last_commit": "2026-10-26T21:01:31Z",
             "open_issues": 131,
             "owner": "zincware",
             "repo": "ZnTrack",
@@ -267,7 +267,7 @@
                 "open_issues": 2,
                 "owner": "treeverse",
                 "repo": "example-get-started",
-                "stars": 204,
+                "stars": 203,
                 "topics": [
                   "dvc",
                   "example",
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T12:46:25.865Z",
+    "last_updated": "2026-10-27T11:59:49.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projects relying on Iterative.AI tools to achieve awesomeness",
